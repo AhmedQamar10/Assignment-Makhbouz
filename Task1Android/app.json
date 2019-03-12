@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Task1Android",
+    "slug": "Task1Android",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/Chef.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f8c291"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.Task1Makhbouz"
+    },
+    "android": {
+      "package": "com.yourcompany.Task1Makhbouz"
+    }
+  }
+}
