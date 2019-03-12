@@ -78,6 +78,6 @@ Show my work:
 
 ========================================
 
-Download APK: https://expo.io/artifacts/c1a2a03e-da6e-4516-978c-d9e700813c95
+Download APK: https://expo.io/artifacts/d598a197-d03a-4edc-b1f3-53d9fcd45493
 
 
