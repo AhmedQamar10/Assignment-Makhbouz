@@ -80,4 +80,5 @@ Show my work:
 
 Download APK: https://expo.io/artifacts/d598a197-d03a-4edc-b1f3-53d9fcd45493
 
-![Uploading Capture.PNG…]()
+![Capture](https://user-images.githubusercontent.com/43926424/54234640-943ff400-4520-11e9-82ae-bab7b9f44bb7.PNG)
+
