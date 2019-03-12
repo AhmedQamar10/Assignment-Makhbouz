@@ -1,4 +1,5 @@
 #Assignment-Makhbouz
+
 1- Download the latest version of Node.js https://nodejs.org/en/
 
 2- npm install -g expo-cli
@@ -36,6 +37,7 @@ Facebook Sdk
 
 * Documentation Expo: https://docs.expo.io/versions/latest/sdk/facebook/#__next
 * Video: https://www.youtube.com/watch?v=LJY73nD5bwQ&t=0s&index=5&list=PLy9JCsy2u97m-xWAxGwHZ2vITtj4qBKDm (See the video for up to 2 minutes and 10 seconds)
+
 =======================================
 
 Email & Password
@@ -59,6 +61,7 @@ Go into your app.json and add this script under the scripts:
   "backgroundColor": "#f8c291"
   
 }
+
 ========================================
 
 Important Note:
